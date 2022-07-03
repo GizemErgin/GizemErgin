@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**GizemErgin/GizemErgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>  
 
-Here are some ideas to get you started:
+<div class="col-md-12">
+  <div class="row">
+     <div>
+        <p class="languages" style="justify-content:strech">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GizemErgin&layout=compact" alt="languages" />  
+       </p>
+    </div>
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
